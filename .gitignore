@@ -1,0 +1,5 @@
+#Docker Disk image location
+DockerDesktop/
+
+#custom files
+.junk/
